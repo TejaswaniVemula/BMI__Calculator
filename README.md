@@ -14,7 +14,7 @@ This app allows users to input their height and weight and get a real-time BMI s
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out!](#) <!-- Replace with your GitHub Pages link after hosting -->
+👉 [https://tejaswanivemula.github.io/BMI_Calculator/](#) <!-- Replace with your GitHub Pages link after hosting -->
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,7 @@ This app allows users to input their height and weight and get a real-time BMI s
 - JavaScript
 
 ## 📷 Screenshots
+![alt text](<Screenshot (5).png>)
 
 ## 📁 Project Structure
 
