@@ -23,7 +23,5 @@ This app allows users to input their height and weight and get a real-time BMI s
 - JavaScript
 
 ## 📷 Screenshots
-![alt text](<Screenshot (5).png>)
-
-## 📁 Project Structure
+![alt text](<Screenshot (5)-1.png>)
 
